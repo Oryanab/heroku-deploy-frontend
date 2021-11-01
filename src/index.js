@@ -27,3 +27,12 @@ const options = [
 
 const select = selectComponent(options)
 app.append(select)
+
+// npm install --save @babel/runtime
+// npm install --save-dev @babel/plugin-transform-runtime
+// {
+//     "presets": ["@babel/preset-env"],
+//     "plugins": [
+//         ["@babel/plugin-transform-runtime"]
+//     ]
+// }
