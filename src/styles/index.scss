@@ -1,7 +1,4 @@
-@font-face {
-  font-family: 'Inter';
-  src: url('../fonts/Inter.ttf');
+#root {
+  margin-top: 50vh;
+  transform: translateY(-50%);
 }
-
-@import 'variables';
-@import 'scaffolding';
